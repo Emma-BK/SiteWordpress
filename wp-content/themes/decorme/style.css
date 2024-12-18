@@ -1,0 +1,65 @@
+/*
+Theme Name: DecorMe
+Theme URI: https://burgerthemes.com/decorme-free/
+Author: burgersoftware
+Author URI: https://burgerthemes.com/
+Description: DecorMe is an Iconic WordPress Theme that is specially structured for Interior Designers. Interior Designers & Architecture can use this marvelous DecorMe Theme for different purposes like Architecture, Interior, Construction, Structure, Engineering, Building Style, Architectural Style, Fabrication, Dining Room, Exterior Design, and more. Checkout Pro Version https://burgerthemes.com/demo/pro/decorme/
+Version: 1.0.19
+Tested up to: 6.6
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: decorme
+Slug: decorme
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+ul.wp-block-social-links li a:before {
+    content: none !important;
+}
+ul.wp-block-social-links li a {
+    padding: 0.25rem !important;
+}
+
+.wp-block-button a.wp-block-button__link {
+    border-color: inherit;
+}
+
+.post-section .wp-block-latest-comments {
+    padding: 0;
+}
+
+widget .wp-block-group .wp-block-rss li:last-child {
+    padding-bottom: 0;
+}
+
+.wp-block-woocommerce-customer-account a .wc-block-customer-account__account-icon {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+.has-background.wp-block-read-more,
+.has-background.post-navigation-link-next {
+    padding: 0.25em 1.5em;
+}
+.wp-block-calendar .wp-calendar-nav {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.sidebar .widget .wp-block-group .wp-block-latest-comments,
+.sidebar .widget .wp-block-group .wp-block-loginout,
+.sidebar .widget .wp-block-group .wp-block-table,
+.sidebar .widget .wp-block-group .wp-block-buttons {
+    padding: 1.565rem 1.000rem 1.563rem;
+}
+.wc-block-mini-cart__icon,
+.wc-block-mini-cart__badge {
+      color: inherit;
+}

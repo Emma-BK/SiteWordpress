@@ -1,0 +1,476 @@
+# Translation of Themes - DecorMe in French (France)
+# This file is distributed under the same license as the Themes - DecorMe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-23 10:09:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - DecorMe\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "DecorMe is an Iconic WordPress Theme that is specially structured for Interior Designers. Interior Designers & Architecture can use this marvelous DecorMe Theme for different purposes like Architecture, Interior, Construction, Structure, Engineering, Building Style, Architectural Style, Fabrication, Dining Room, Exterior Design, and more. Checkout Pro Version https://burgerthemes.com/demo/pro/decorme/"
+msgstr "DecorMe est un thème WordPress iconique qui est spécialement structuré pour les designers d’intérieur. Les designers d’intérieur et l’architecture peuvent utiliser ce merveilleux thème DecorMe pour différents objectifs tels que l’architecture, l’intérieur, la construction, la structure, l‘ingénierie, le style de construction, le style architectural, la fabrication, la salle à manger, la conception extérieure, et plus encore. Commandez la version Pro https://burgerthemes.com/demo/pro/decorme/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "DecorMe"
+msgstr "DecorMe"
+
+#: inc/extras.php:405
+msgid "Get started with DecorMe"
+msgstr "Premiers pas avec DecorMe"
+
+#: inc/extras.php:403
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "Installez et activez l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que ce thème a à offrir."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/extras.php:399
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s !"
+
+#: inc/extras.php:392
+msgid "Theme Screenshot"
+msgstr "Captures d’écran du thème"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in DecorMe Pro"
+msgstr "Obtenez plus de fonctionnalités avec DecorMe Pro"
+
+#: woocommerce/content-product.php:64
+msgid "out of 5"
+msgstr "sur 5"
+
+#: woocommerce/content-product.php:64
+msgid "Rated %s out of 5"
+msgstr "Noté %s sur 5"
+
+#: woocommerce/content-product.php:45
+msgid "Sale"
+msgstr "Promo"
+
+#: woocommerce/cart/mini-cart.php:118 woocommerce/cart/mini-cart.php:231
+msgid "No products in the cart."
+msgstr "Aucun article dans le panier."
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:225
+msgid "Checkout"
+msgstr "Commande"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:185
+msgid "Remove this item"
+msgstr "Retirer cet élément"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:160
+msgid "Total:"
+msgstr "Total :"
+
+#. Template Name of the theme
+msgid "Page Full Width"
+msgstr "Page en pleine largeur"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#: template-parts/sections/section-header.php:71
+msgid "Header Close Menu"
+msgstr "En-tête de fermeture de menu"
+
+#: template-parts/sections/section-header.php:62
+msgid "Menu Collaped"
+msgstr "Menu replié"
+
+#: template-parts/sections/section-breadcrumb.php:16
+#: template-parts/sections/section-breadcrumb.php:19
+#: template-parts/sections/section-breadcrumb.php:22
+#: template-parts/sections/section-breadcrumb.php:27
+#: template-parts/sections/section-breadcrumb.php:30
+#: template-parts/sections/section-breadcrumb.php:33
+msgid "Decor Me"
+msgstr "Decor Me"
+
+#: template-parts/content/content.php:37
+msgid "Pages:"
+msgstr "Pages :"
+
+#. translators: %s: Name of current post.
+#: template-parts/content/content.php:32
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content/content-page.php:35
+#: template-parts/content/content-search.php:35
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: template-parts/content/content-none.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: template-parts/content/content-none.php:16
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: template-parts/content/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: searchform.php:10
+msgid "Search …"
+msgstr "Rechercher…"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:70
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:63
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\"> sur %s</span>"
+
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:50
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:48 inc/template-tags.php:54
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publié le %s"
+
+#: inc/extras.php:352
+msgid "Page"
+msgstr "Page"
+
+#: inc/extras.php:347
+msgid "Error 404 "
+msgstr "Erreur 404"
+
+#: inc/extras.php:343
+msgid "Articles posted by "
+msgstr "Articles publiés par"
+
+#: inc/extras.php:337
+msgid "Posts tagged "
+msgstr "Articles étiquetés"
+
+#: inc/extras.php:234
+msgid "Search results for "
+msgstr "Résultats de recherche pour"
+
+#: inc/extras.php:228
+msgid "Archive by category"
+msgstr "Archive par catégorie"
+
+#: inc/extras.php:208
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/extras.php:206 inc/extras.php:209
+msgid "1"
+msgstr "1"
+
+#: inc/extras.php:174
+msgid "Author: %s"
+msgstr "Auteur/autrice : %s"
+
+#: inc/extras.php:170
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#: inc/extras.php:166
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clé %s"
+
+#: inc/extras.php:162
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: inc/extras.php:158
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles : %s"
+
+#: inc/extras.php:154
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles : %s"
+
+#: inc/extras.php:150
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes : %s"
+
+#: inc/extras.php:127 woocommerce/cart/mini-cart.php:39
+#: woocommerce/cart/mini-cart.php:153
+msgid "0"
+msgstr "0"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/customizer/customizer-options/decorme_recommended_plugin.php:10
+msgid "Install and activate <strong>Burger Companion</strong> plugin for taking full advantage of all the features this theme has to offer DecorMe."
+msgstr "Installez et activer l’extension <strong>Burger Companion</strong> pour tirer pleinement avantage de toutes les fonctionnalités que le thème DecorMe a à offrir."
+
+#: inc/customizer/customizer-options/decorme-header.php:59
+msgid "Hide/Show"
+msgstr "Masquer/Afficher"
+
+#: inc/customizer/customizer-options/decorme-header.php:23
+#: inc/customizer/customizer-options/decorme-header.php:42
+msgid "Sticky Header"
+msgstr "En-tête fixe"
+
+#: inc/customizer/customizer-options/decorme-general.php:184
+msgid "Light Image 6"
+msgstr "Image claire 6"
+
+#: inc/customizer/customizer-options/decorme-general.php:166
+msgid "Light Image 5"
+msgstr "Image claire 5"
+
+#: inc/customizer/customizer-options/decorme-general.php:148
+msgid "Light Image 4"
+msgstr "Image claire 4"
+
+#: inc/customizer/customizer-options/decorme-general.php:130
+msgid "Light Image 3"
+msgstr "Image claire 3"
+
+#: inc/customizer/customizer-options/decorme-general.php:112
+msgid "Light Image 2"
+msgstr "Image claire 2"
+
+#: inc/customizer/customizer-options/decorme-general.php:94
+msgid "Light Image 1"
+msgstr "Image claire 1"
+
+#: inc/customizer/customizer-options/decorme-general.php:55
+msgid "Hide / Show Section"
+msgstr "Masquer/Afficher la section"
+
+#: inc/customizer/customizer-options/decorme-general.php:36
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/customizer/customizer-options/decorme-general.php:16
+msgid "Breadcrumb Section"
+msgstr "Section de fil d’Ariane"
+
+#: inc/customizer/customizer-options/decorme-general.php:7
+msgid "General"
+msgstr "Général"
+
+#: inc/customizer/customizer-options/decorme-footer.php:110
+msgid "Copytight"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/decorme-footer.php:96
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Propulsé par [theme_author]"
+
+#: inc/customizer/customizer-options/decorme-footer.php:90
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-options/decorme-footer.php:70
+msgid "Footer Copyright"
+msgstr "Copyright de pied de page"
+
+#: inc/customizer/customizer-options/decorme-footer.php:58
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/customizer-options/decorme-footer.php:40
+#: inc/customizer/customizer-options/decorme-general.php:76
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/customizer/customizer-options/decorme-footer.php:20
+msgid "Footer Background"
+msgstr "Arrière-plan du pied de page"
+
+#: inc/customizer/customizer-options/decorme-footer.php:10
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer/customizer-options/decorme-blog.php:174
+msgid "No of Posts Display"
+msgstr "Nombre d’articles à afficher"
+
+#: inc/customizer/customizer-options/decorme-blog.php:155
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/customizer/customizer-options/decorme-blog.php:134
+msgid "Description"
+msgstr "Description"
+
+#: inc/customizer/customizer-options/decorme-blog.php:114
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: inc/customizer/customizer-options/decorme-blog.php:94
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer/customizer-options/decorme-blog.php:75
+#: inc/customizer/customizer-options/decorme-header.php:12
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer/customizer-options/decorme-blog.php:55
+msgid "Hide / Show"
+msgstr "Masquer/Afficher"
+
+#: inc/customizer/customizer-options/decorme-blog.php:35
+msgid "Setting"
+msgstr "Réglage"
+
+#: inc/customizer/customizer-options/decorme-blog.php:15
+msgid "Blog Section"
+msgstr "Section de blog"
+
+#: inc/customizer/customizer-options/decorme-blog.php:10
+msgid "Frontpage Sections"
+msgstr "Sections de page d’accueil"
+
+#: inc/customizer/customizer-notify/decorme-notify.php:112
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/class-wp-bootstrap-navwalker.php:367
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:138
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Cette zone de widget est pour le widget WooCommerce"
+
+#: functions.php:136
+msgid "WooCommerce Widget Area"
+msgstr "Zone de widget WooCommerce"
+
+#: functions.php:128
+msgid "Footer Widget Area 3"
+msgstr "Zone de widget de pied de page 3"
+
+#: functions.php:120
+msgid "Footer Widget Area 2"
+msgstr "Zone de widget de pied de page 2"
+
+#: functions.php:114 functions.php:122 functions.php:130
+msgid "The Footer Widget Area"
+msgstr "La zone de widgets du pied de page"
+
+#: functions.php:112
+msgid "Footer Widget Area 1"
+msgstr "Zone de widget de pied de page 1"
+
+#: functions.php:103
+msgid "The Primary Widget Area"
+msgstr "La zone principale de widget"
+
+#: functions.php:101
+msgid "Sidebar Widget Area"
+msgstr "Zone de widget de colonne latérale"
+
+#: functions.php:38
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: footer.php:47
+msgid "<a href=\"#\">DecorMe</a>"
+msgstr "<a href=\"#\">DecorMe</a>"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:45 comments.php:65
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:44 comments.php:64
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: 404.php:24
+msgid "Back to Home"
+msgstr "Retour à l’accueil"
+
+#: 404.php:21
+msgid "We're sorry,<br>The page you were looking for doesn't exist anymore."
+msgstr "Nous sommes désolés<br>la page que vous recherchez n’existe plus."
+
+#: 404.php:19
+msgid "Oops..!"
+msgstr "Oups !"
+
+#: 404.php:17
+msgid "4"
+msgstr "4"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://burgerthemes.com/decorme-free/"
+msgstr "https://burgerthemes.com/decorme-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"
